@@ -1,4 +1,8 @@
 # My statistics :heart: :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=All1nois&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=All1nois&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=All1nois&theme=nord_bright)
 
 
 # Languages and Tools :mag_right: :

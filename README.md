@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Alina 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNxOWd6Y3JiZzV2amdyMGlibG9lZjk0YndlNmZiN3cwYWVpdmNtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpDmM2wSt6Hm5fKJVa/giphy.gif" height="32"/></h1>
-<h3 align="center">I am a beginner C# developer from Russia 🇷🇺</h3>
+<h3 align="center">I am a beginner C# and Web developer from Russia 🇷🇺</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=All1nois&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=All1nois&theme=nord_bright)

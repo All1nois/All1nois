@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome&textBg=false&section=header&reversal=false )
 
 <h1 align="center">Hi there, I'm Alina 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNxOWd6Y3JiZzV2amdyMGlibG9lZjk0YndlNmZiN3cwYWVpdmNtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpDmM2wSt6Hm5fKJVa/giphy.gif" height="32"/></h1>
